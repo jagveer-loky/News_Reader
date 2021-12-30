@@ -1,4 +1,5 @@
 *.properties
+javaee.jar
 
 # User-specific stuff
 .idea/**/workspace.xml
